@@ -1,16 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <style>
-        img{
-            height: 120px;
-            width: 120px;
-        }
-    </style>
-</head>
+<%- include("includes/head.ejs") %>
+
 <body>
     <h2>This page belongs to @<%= data.name %> </h2>
     <button>Follow</button>
@@ -26,7 +15,8 @@
         Comments: <%= post.comments %> </h3> <hr/>
     <%} %>
 </body>
-</html> 
+
+<%- include("includes/footer.ejs") %>
 
 
     
