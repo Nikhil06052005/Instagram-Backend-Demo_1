@@ -1,0 +1,48 @@
+{
+    "cats":{
+        "name": "cats",
+        "followers": 25000,
+        "following": 5,
+        "posts": [
+            {
+                "image": "https://i.pinimg.com/736x/98/58/74/9858745cd157f2797065e639c5b3bf23.jpg",
+                "likes": 200,
+                "comments": 17
+            },
+            {
+                "image": "https://img.freepik.com/free-photo/beautiful-anime-woman-cartoon-scene_23-2151035231.jpg?semt=ais_hybrid&w=740",
+                "likes": 200,
+                "comments": 17
+            },
+            {
+                "image": "https://t4.ftcdn.net/jpg/06/22/22/17/360_F_622221708_Gg16ZdaNSixeaIORq9MuuT4w9VWTkYw4.jpg",
+                "likes": 200,
+                "comments": 17
+            }
+
+        ]
+    },
+    "dogs":{
+        "name": "dogs",
+        "followers": 75000,
+        "following": 150,
+        "posts": [
+            {
+                "image": "https://wallpapers.com/images/featured/dark-anime-boy-y1osxwhaeuas0lx4.jpg",
+                "likes": 3000,
+                "comments": 41
+            },
+            {
+                "image": "https://i.pinimg.com/736x/c3/f9/85/c3f98513a77485725343172f3f613760.jpg",
+                "likes": 2500,
+                "comments": 32
+            },
+            {
+                "image": "https://i.pinimg.com/564x/c9/47/39/c9473942942162cfb8593f4b16d3a3fe.jpg",
+                "likes": 500,
+                "comments": 6
+            }
+
+        ]
+    }
+}
